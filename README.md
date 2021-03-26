@@ -1,0 +1,2 @@
+# Balloon_Shooting
+This balloon shooting game developed using pygame package in Python. The ballons are not placed in fixed positions, they are moving left to right from top to bottom. Anchor is placed at bottom of the window, using space bar arrow is released. If arrow hits any of the balloon, player get score 1 for each successful hits. The shooted balloon is again regenerated at top of the window at random position. if any one of the six balloons is came nearer to the anchor means, game will be ended and score is displayed on the screen. 
